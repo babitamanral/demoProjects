@@ -1,0 +1,5 @@
+packages/
+WebApiCRUD/bin/
+WebApiCRUD/obj/
+.vs/
+*.js
